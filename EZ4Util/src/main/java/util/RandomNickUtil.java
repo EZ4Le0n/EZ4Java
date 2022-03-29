@@ -2,6 +2,9 @@ package util;
 
 import java.util.Random;
 
+/**
+ * @author lilei
+ */
 public class RandomNickUtil {
     /**
      * 随机昵称 形容词
